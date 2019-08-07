@@ -13,5 +13,3 @@ It is a simple django project or website in which we can Analyze text.
 <h1>Requirments</h1>
 python3<br>
 django<br>
-Click here for [demo] (textutilsin.herokuapp.com)
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
