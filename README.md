@@ -13,14 +13,6 @@ It is a simple django project or website in which we can Analyze text.
 <h1>Requirments</h1>
 python3<br>
 django<br>
-[I'm an inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[click me for demo](../http://textutilsin.herokuapp.com)
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
