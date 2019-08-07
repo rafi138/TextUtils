@@ -14,5 +14,5 @@ It is a simple django project or website in which we can Analyze text.
 python3<br>
 django<br>
 
-<H1>[click me for demo](http://textutilsin.herokuapp.com) </H1>
+[click me for demo](http://textutilsin.herokuapp.com)
 
